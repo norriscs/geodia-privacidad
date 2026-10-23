@@ -1,5 +1,5 @@
 ---
-title: Política de privacidad de MaryBlocks / MaryBlocks privacy policy
+title: Política de privacidad de Geodia / Geodia privacy policy
 ---
 
 [Español](#es) · [English](#en)
@@ -8,7 +8,7 @@ title: Política de privacidad de MaryBlocks / MaryBlocks privacy policy
 
 *Última actualización: 23 de octubre de 2026*
 
-MaryBlocks es un juego de puzles. Esta política explica qué datos recoge la app y para qué los usa.
+Geodia es un juego de puzles. Esta política explica qué datos recoge la app y para qué los usa.
 
 ## Qué datos recogemos
 La app usa **Google Firebase Analytics** para saber cómo se juega y mejorar el juego. Se envían estos datos:
@@ -35,27 +35,27 @@ Solo con Google, que procesa los datos de Firebase Analytics por cuenta nuestra 
 Los datos de eventos se guardan 2 meses en Firebase y después se eliminan.
 
 ## Tus opciones
-- Puedes borrar los datos del juego desde *Ajustes → Restablecer progreso* en el juego, o desde *Ajustes de Android → Aplicaciones → MaryBlocks → Almacenamiento → Borrar datos*.
-- Puedes pedirnos que eliminemos los datos asociados a tu instalación escribiendo a **mary.blocks.blast@gmail.com**.
+- Puedes borrar los datos del juego desde *Ajustes → Restablecer progreso* en el juego, o desde *Ajustes de Android → Aplicaciones → Geodia → Almacenamiento → Borrar datos*.
+- Puedes pedirnos que eliminemos los datos asociados a tu instalación escribiendo a **geodia.blocks@gmail.com**.
 
 ## Menores
-MaryBlocks no está dirigido a menores de 13 años.
+Geodia no está dirigido a menores de 13 años.
 
 ## Cambios
 Si cambiamos esta política, publicaremos la nueva versión en esta misma página.
 
 ## Contacto
-MaryBlocks · mary.blocks.blast@gmail.com
+Geodia · geodia.blocks@gmail.com
 
 ---
 
 <a id="en"></a>
 
-# MaryBlocks privacy policy
+# Geodia privacy policy
 
 *Last updated: October 23, 2026*
 
-MaryBlocks is a puzzle game. This policy explains what data the app collects and what it is used for.
+Geodia is a puzzle game. This policy explains what data the app collects and what it is used for.
 
 ## What data we collect
 The app uses **Google Firebase Analytics** to understand how the game is played and to improve it. The following data is sent:
@@ -82,14 +82,14 @@ Only Google, which processes Firebase Analytics data on our behalf under its [pr
 Event data is kept in Firebase for 2 months and then deleted.
 
 ## Your choices
-- You can delete the game data from *Settings → Reset progress* in the game, or from *Android Settings → Apps → MaryBlocks → Storage → Clear data*.
-- You can ask us to delete the data linked to your installation by writing to mary.blocks.blast@gmail.com.
+- You can delete the game data from *Settings → Reset progress* in the game, or from *Android Settings → Apps → Geodia → Storage → Clear data*.
+- You can ask us to delete the data linked to your installation by writing to geodia.blocks@gmail.com.
 
 ## Children
-MaryBlocks is not directed at children under 13.
+Geodia is not directed at children under 13.
 
 ## Changes
 If we change this policy, we will publish the new version on this same page.
 
 ## Contact
-MaryBlocks · mary.blocks.blast@gmail.com
+Geodia · geodia.blocks@gmail.com
